@@ -1,6 +1,6 @@
 # 100DaysOfSQL Challenge 
 
-- Rationale: 
+### Rationale: 
 As a QA Engineer I do little SQL in my daily work and that makes 
 SQL a second class citizen in my skillset. I undersatand all the 
 basics and a quick refresh will be enough for me to write a query
