@@ -18,7 +18,7 @@ Basically a summary of yday and today. Did some prep work to start working on th
 
 ### R1D2
 Day 02 of #100DaysOfSQL 
-Went over several SQL exercises from here: https://pgexercises.com/questions/joins/ to continue practicing my SQL skills. 
+Went over several SQL exercises from here: https://pgexercises.com/questions/joins/ to continue practicing my SQL skills. Mostly played with Joins.
 
 ### R1D3
 
