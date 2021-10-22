@@ -21,5 +21,12 @@ Day 02 of #100DaysOfSQL
 Went over several SQL exercises from here: https://pgexercises.com/questions/joins/ to continue practicing my SQL skills. Mostly played with Joins.
 
 ### R1D3
+Day 03 of #100DaysOfSQL 
+Went over a SQL exercise from here: https://pgexercises.com/questions/joins/
+Wasn't very happy with my result. Started refreshing SQL queries using the book:
+Learning SQL, 3rd Edition. Found a port of sakila DB, will try to install it in 
+my local PostgreSQL instance.  
 
 ### R1D4
+
+### R1D5
