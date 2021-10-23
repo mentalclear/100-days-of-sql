@@ -28,5 +28,9 @@ Learning SQL, 3rd Edition. Found a port of sakila DB, will try to install it in
 my local PostgreSQL instance.  
 
 ### R1D4
+Day 04 of #100DaysOfSQL 
+Worked through Capter 2 from a book Learning SQL, 3rd Edition. Making my life complicated by adapting MySQL related learning material to my local PostgreSQL :) But it seams more fun like that!
 
 ### R1D5
+
+### R1D6
