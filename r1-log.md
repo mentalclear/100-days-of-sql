@@ -32,5 +32,10 @@ Day 04 of #100DaysOfSQL
 Worked through Capter 2 from a book Learning SQL, 3rd Edition. Making my life complicated by adapting MySQL related learning material to my local PostgreSQL :) But it seams more fun like that!
 
 ### R1D5
+Day 05 of #100DaysOfSQL 
+Worked through Capter 3 from a book Learning SQL, 3rd Edition from O'Reilly. Again had to adapt MySQL related learning material to PostgreSQL. Not that bad TBH. Spent a lot of time on that. 
+But it goes! Will do exercises tomorrow. 
 
 ### R1D6
+
+### R1D7
