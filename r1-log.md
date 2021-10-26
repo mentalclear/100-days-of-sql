@@ -43,5 +43,11 @@ Also completed Chapter 4 and exercises for it.
 #SQL #MySQL, #PostgreSQL
 
 ### R1D7
+Day 07 of #100DaysOfSQL 
+Completed Chapter 5 and exercises from a book Learning SQL, 3rd Edition.
+Refreshed INNER JOINs this time.  
+#SQL #MySQL, #PostgreSQL
 
 ### R1D8
+
+### R1D9
