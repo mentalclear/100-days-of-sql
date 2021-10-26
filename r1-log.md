@@ -37,5 +37,11 @@ Worked through Capter 3 from a book Learning SQL, 3rd Edition from O'Reilly. Aga
 But it goes! Will do exercises tomorrow. 
 
 ### R1D6
+Day 06 of #100DaysOfSQL 
+Completed exercises for Chapter 3 from a book Learning SQL, 3rd Edition. Now I'm by default adapting MySQL to PostgreSQL without much thinking. 
+Also completed Chapter 4 and exercises for it. 
+#SQL #MySQL, #PostgreSQL
 
 ### R1D7
+
+### R1D8
