@@ -49,5 +49,12 @@ Refreshed INNER JOINs this time.
 #SQL #MySQL, #PostgreSQL
 
 ### R1D8
+Day 08 of #100DaysOfSQL 
+Working through Chapter 6 from the book "Learning SQL, 3rd Edition"
+Looking into UNIONs, INTERSECTs and EXCEPTs for Data Sets. 
+Interesting enough some of those don't work in #MySQL but Ok in #PostgreSQL. #SQL
 
 ### R1D9
+
+
+### R1D10
