@@ -55,6 +55,13 @@ Looking into UNIONs, INTERSECTs and EXCEPTs for Data Sets.
 Interesting enough some of those don't work in #MySQL but Ok in #PostgreSQL. #SQL
 
 ### R1D9
-
+Day 09 of #100DaysOfSQL 
+Completed Chapter 6 from the book "Learning SQL, 3rd Edition"
+Looked into Sorting and Operator precedence for Sets. 
+Completed exercises for the chapter. #MySQL, #PostgreSQL, #SQL
+Wasn't sure that I liked the book in the beginning but it's good!
 
 ### R1D10
+
+
+### R1D11
