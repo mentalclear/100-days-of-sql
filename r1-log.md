@@ -62,6 +62,13 @@ Completed exercises for the chapter. #MySQL, #PostgreSQL, #SQL
 Wasn't sure that I liked the book in the beginning but it's good!
 
 ### R1D10
+Day 10 of #100DaysOfSQL 
+Working on Chapter 7 from the book "Learning SQL, 3rd Edition"
+A lot of material to digest there. Looking into Data Generation
+Manipulation and Conversion. #MySQL, #PostgreSQL, #SQL
 
 
 ### R1D11
+
+
+### R1D12
