@@ -67,8 +67,12 @@ Working on Chapter 7 from the book "Learning SQL, 3rd Edition"
 A lot of material to digest there. Looking into Data Generation
 Manipulation and Conversion. #MySQL, #PostgreSQL, #SQL
 
-
 ### R1D11
-
-
+Day 11 of #100DaysOfSQL 
+Back on track here too! 
+Done Chapter 7 from the book "Learning SQL, 3rd Edition" and the exercises there.
+Off to Chapter 8. #MySQL, #PostgreSQL, #SQL
 ### R1D12
+
+
+### R1D13
