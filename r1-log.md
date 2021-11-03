@@ -72,7 +72,14 @@ Day 11 of #100DaysOfSQL
 Back on track here too! 
 Done Chapter 7 from the book "Learning SQL, 3rd Edition" and the exercises there.
 Off to Chapter 8. #MySQL, #PostgreSQL, #SQL
-### R1D12
 
+### R1D12
+Day 12 of #100DaysOfSQL 
+Working on Chapter 8 from the book "Learning SQL, 3rd Edition" 
+Looking into aggregate functions. So far looks interetsing. A lot of interestin data can be retreived with them.
+#MySQL, #PostgreSQL, #SQL
 
 ### R1D13
+
+
+### R1D14
