@@ -80,6 +80,10 @@ Looking into aggregate functions. So far looks interetsing. A lot of interestin 
 #MySQL, #PostgreSQL, #SQL
 
 ### R1D13
-
+Day 13 of #100DaysOfSQL 
+Working on Chapter 8 from the book "Learning SQL, 3rd Edition" 
+Looking into aggregate functions and groupings. The most challenging is that the material is for #MySQL but I'm apating it for #PostgreSQL still a lot of #SQL fun!
 
 ### R1D14
+
+### R1D15
