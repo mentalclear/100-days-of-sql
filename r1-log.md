@@ -85,5 +85,10 @@ Working on Chapter 8 from the book "Learning SQL, 3rd Edition"
 Looking into aggregate functions and groupings. The most challenging is that the material is for #MySQL but I'm apating it for #PostgreSQL still a lot of #SQL fun!
 
 ### R1D14
+Day 14 of #100DaysOfSQL 
+Completed Chapter 8 and exercises from the book "Learning SQL, 3rd Edition". Wrapped up with aggregate functions and groupings. Now will be looking at subqueries in the Chapter 9.
+#MySQL, #PostgreSQL, #SQL
 
 ### R1D15
+
+### R1D16
