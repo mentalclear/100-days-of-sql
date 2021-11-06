@@ -90,5 +90,11 @@ Completed Chapter 8 and exercises from the book "Learning SQL, 3rd Edition". Wra
 #MySQL, #PostgreSQL, #SQL
 
 ### R1D15
-
+Day 15 of #100DaysOfSQL 
+Working on Chapter 9 from the book "Learning SQL, 3rd Edition".
+Mostly looking into subqueries now. Noncorrelated Subqueries in particular.
+#MySQL, #PostgreSQL, #SQL
 ### R1D16
+
+
+### R1D17
