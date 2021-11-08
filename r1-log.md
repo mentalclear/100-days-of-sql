@@ -94,7 +94,13 @@ Day 15 of #100DaysOfSQL
 Working on Chapter 9 from the book "Learning SQL, 3rd Edition".
 Mostly looking into subqueries now. Noncorrelated Subqueries in particular.
 #MySQL, #PostgreSQL, #SQL
-### R1D16
 
+### R1D16
+Day 16 of #100DaysOfSQL 
+Working on Chapter 9 from the book "Learning SQL, 3rd Edition".
+Continue looking into subqueries now. Mostly went over Single Column Queries.
+#MySQL, #PostgreSQL, #SQL
 
 ### R1D17
+
+### R1D18
