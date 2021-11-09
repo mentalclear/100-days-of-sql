@@ -102,5 +102,11 @@ Continue looking into subqueries now. Mostly went over Single Column Queries.
 #MySQL, #PostgreSQL, #SQL
 
 ### R1D17
+Day 17 of #100DaysOfSQL 
+Working on Chapter 9 from the book "Learning SQL, 3rd Edition".
+Continue looking into subqueries. Looked at Correlated Subqueries, Exists, Not Exists.
+#MySQL, #PostgreSQL, #SQL
 
 ### R1D18
+
+### R1D19
