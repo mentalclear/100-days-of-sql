@@ -108,5 +108,9 @@ Continue looking into subqueries. Looked at Correlated Subqueries, Exists, Not E
 #MySQL, #PostgreSQL, #SQL
 
 ### R1D18
-
+Day 18 of #100DaysOfSQL 
+Back to business :) Working on Chapter 9 from the book "Learning SQL, 3rd Edition". Continue looking into subqueries. There are a lot of interesting things to look at and practice.
+#MySQL, #PostgreSQL, #SQL
 ### R1D19
+
+### R1D20
