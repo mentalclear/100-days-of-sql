@@ -111,6 +111,12 @@ Continue looking into subqueries. Looked at Correlated Subqueries, Exists, Not E
 Day 18 of #100DaysOfSQL 
 Back to business :) Working on Chapter 9 from the book "Learning SQL, 3rd Edition". Continue looking into subqueries. There are a lot of interesting things to look at and practice.
 #MySQL, #PostgreSQL, #SQL
+
 ### R1D19
+Day 19 of #100DaysOfSQL 
+Back to SQL Completed Chapter 9 from the book "Learning SQL, 3rd Edition". Mostly was focused on subqueries. Starting Chapter 10.
+#MySQL, #PostgreSQL, #SQL
 
 ### R1D20
+
+### R1D21
