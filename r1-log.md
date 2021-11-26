@@ -118,5 +118,10 @@ Back to SQL Completed Chapter 9 from the book "Learning SQL, 3rd Edition". Mostl
 #MySQL, #PostgreSQL, #SQL
 
 ### R1D20
+Day 20 of #100DaysOfSQL 
+Working on Chapter 10 from the book "Learning SQL, 3rd Edition". Mostly was focused on LEFT OUTER JOIN.
+#MySQL, #PostgreSQL, #SQL
 
 ### R1D21
+
+### R1D22
