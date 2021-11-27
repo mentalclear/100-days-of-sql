@@ -123,5 +123,11 @@ Working on Chapter 10 from the book "Learning SQL, 3rd Edition". Mostly was focu
 #MySQL, #PostgreSQL, #SQL
 
 ### R1D21
+Day 21 of #100DaysOfSQL 
+Completed Chapter 10 and exercises from the book "Learning SQL, 3rd Edition". Looked at other types of Joins.
+#MySQL, #PostgreSQL, #SQL
 
 ### R1D22
+
+
+### R1D23
