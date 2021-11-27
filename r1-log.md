@@ -128,6 +128,11 @@ Completed Chapter 10 and exercises from the book "Learning SQL, 3rd Edition". Lo
 #MySQL, #PostgreSQL, #SQL
 
 ### R1D22
-
+Day 22 of #100DaysOfSQL 
+Working on Chapter 11 from the book "Learning SQL, 3rd Edition". Learning about the Conditional Logic.
+#MySQL, #PostgreSQL, #SQL
 
 ### R1D23
+
+
+### R1D24
