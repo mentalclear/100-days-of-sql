@@ -133,6 +133,10 @@ Working on Chapter 11 from the book "Learning SQL, 3rd Edition". Learning about 
 #MySQL, #PostgreSQL, #SQL
 
 ### R1D23
-
+Day 23 of #100DaysOfSQL 
+Working on Chapter 11 from the book "Learning SQL, 3rd Edition". Learning about CASE usage.
+#MySQL, #PostgreSQL, #SQL
 
 ### R1D24
+
+### R1D25
