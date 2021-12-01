@@ -138,5 +138,10 @@ Working on Chapter 11 from the book "Learning SQL, 3rd Edition". Learning about 
 #MySQL, #PostgreSQL, #SQL
 
 ### R1D24
+Day 24 of #100DaysOfSQL 
+Completed Chapter 11 from the book "Learning SQL, 3rd Edition". Learned a lot about conditional logic using CASE.
+#MySQL, #PostgreSQL, #SQL
 
 ### R1D25
+
+### R1D26
