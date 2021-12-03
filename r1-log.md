@@ -143,5 +143,10 @@ Completed Chapter 11 from the book "Learning SQL, 3rd Edition". Learned a lot ab
 #MySQL, #PostgreSQL, #SQL
 
 ### R1D25
+Day 25 of #100DaysOfSQL 
+Completed Chapter 12 from the book "Learning SQL, 3rd Edition". Learned about Transactions.
+#MySQL, #PostgreSQL, #SQL
 
 ### R1D26
+
+### R1D27
