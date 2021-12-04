@@ -148,5 +148,11 @@ Completed Chapter 12 from the book "Learning SQL, 3rd Edition". Learned about Tr
 #MySQL, #PostgreSQL, #SQL
 
 ### R1D26
+Day 26 of #100DaysOfSQL 
+Working on Chapter 13 from the book "Learning SQL, 3rd Edition". Learning about database indexes. Looks interesting!
+#MySQL, #PostgreSQL, #SQL
 
 ### R1D27
+
+
+### R1D28
