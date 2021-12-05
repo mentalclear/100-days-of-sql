@@ -153,6 +153,11 @@ Working on Chapter 13 from the book "Learning SQL, 3rd Edition". Learning about 
 #MySQL, #PostgreSQL, #SQL
 
 ### R1D27
-
+Day 27 of #100DaysOfSQL 
+Completed Chapter 13 from the book "Learning SQL, 3rd Edition". Learned about database Indexes and Constraints. 
+Next: Chapter 14 - Views.
+#MySQL, #PostgreSQL, #SQL
 
 ### R1D28
+
+### R1D29
