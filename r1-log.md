@@ -159,5 +159,10 @@ Next: Chapter 14 - Views.
 #MySQL, #PostgreSQL, #SQL
 
 ### R1D28
+Day 28 of #100DaysOfSQL 
+Working through Chapter 14 from the book "Learning SQL, 3rd Edition". Learning more about Views. Totally like that feature. 
+#MySQL, #PostgreSQL, #SQL
 
 ### R1D29
+
+### R1D30
