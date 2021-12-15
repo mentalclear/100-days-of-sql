@@ -169,5 +169,11 @@ Working through Chapter 14 from the book "Learning SQL, 3rd Edition". Continue l
 #MySQL, #PostgreSQL, #SQL
 
 ### R1D30
+Day 30 of #100DaysOfSQL 
+Completed Chapter 14 from the book "Learning SQL, 3rd Edition". Learned a lot about Views.
+Completed exercises for the chapter.
+#MySQL, #PostgreSQL, #SQL
 
 ### R1D31
+
+### R1D32
