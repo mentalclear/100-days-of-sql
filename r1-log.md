@@ -180,5 +180,11 @@ Completed Chapter 15 from the book "Learning SQL, 3rd Edition". Learned about Me
 #MySQL, #PostgreSQL, #SQL
 
 ### R1D32
+Day 32 of #100DaysOfSQL 
+Spent my hour today moving PostgreSQL database from a VM to my home server, it's up 24/7 so makes more sense to use that one instead of VM. 
+#MySQL, #PostgreSQL, #SQL
 
 ### R1D33
+
+
+### R1D34
