@@ -175,5 +175,10 @@ Completed exercises for the chapter.
 #MySQL, #PostgreSQL, #SQL
 
 ### R1D31
+Day 31 of #100DaysOfSQL 
+Completed Chapter 15 from the book "Learning SQL, 3rd Edition". Learned about Metadata. Completed exercises for the chapter.
+#MySQL, #PostgreSQL, #SQL
 
 ### R1D32
+
+### R1D33
