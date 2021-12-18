@@ -185,6 +185,11 @@ Spent my hour today moving PostgreSQL database from a VM to my home server, it's
 #MySQL, #PostgreSQL, #SQL
 
 ### R1D33
-
+Day 33 of #100DaysOfSQL 
+Started working through Chapter 16 from the book "Learning SQL, 3rd Edition". Learning about Analytical Functions.
+#MySQL, #PostgreSQL, #SQL
 
 ### R1D34
+
+
+### R1D35
