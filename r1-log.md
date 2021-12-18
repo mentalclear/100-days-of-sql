@@ -190,6 +190,10 @@ Started working through Chapter 16 from the book "Learning SQL, 3rd Edition". Le
 #MySQL, #PostgreSQL, #SQL
 
 ### R1D34
-
+Day 34 of #100DaysOfSQL 
+Completed Chapter 16 from the book "Learning SQL, 3rd Edition". 
+Learned about Analytical Functions. Pretty interesting, but definitely not my cup of tea. #MySQL, #PostgreSQL, #SQL
 
 ### R1D35
+
+### R1D36
