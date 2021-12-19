@@ -197,7 +197,7 @@ Learned about Analytical Functions. Pretty interesting, but definitely not my cu
 ### R1D35
 Day 35 of #100DaysOfSQL 
 Working on Chapter 17 from the book "Learning SQL, 3rd Edition". 
-Learning about PArtitioning for Large Databases. That looks super interesting.
+Learning about Partitioning for Large Databases. That looks super interesting.
 #MySQL, #PostgreSQL, #SQL
 
 ### R1D36
