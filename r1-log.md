@@ -195,5 +195,11 @@ Completed Chapter 16 from the book "Learning SQL, 3rd Edition".
 Learned about Analytical Functions. Pretty interesting, but definitely not my cup of tea. #MySQL, #PostgreSQL, #SQL
 
 ### R1D35
+Day 35 of #100DaysOfSQL 
+Working on Chapter 17 from the book "Learning SQL, 3rd Edition". 
+Learning about PArtitioning for Large Databases. That looks super interesting.
+#MySQL, #PostgreSQL, #SQL
 
 ### R1D36
+
+### R1D37
