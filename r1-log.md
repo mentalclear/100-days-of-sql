@@ -207,5 +207,13 @@ Learned about Partitioning for Large Databases. Off to Chapter 18 - Big Data.
 #MySQL, #PostgreSQL, #SQL
 
 ### R1D37
+Day 37 of #100DaysOfSQL 
+Completed Chapter 18 from the book "Learning SQL, 3rd Edition". 
+Learned about Big Data and SQL future. This concludes the book. Done.
+Next Book to work on: Practical SQL By Anthony DeBarros @anthonydb
+#MySQL, #PostgreSQL, #SQL
+
 
 ### R1D38
+
+### R1D39
