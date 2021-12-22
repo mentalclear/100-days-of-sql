@@ -201,5 +201,11 @@ Learning about Partitioning for Large Databases. That looks super interesting.
 #MySQL, #PostgreSQL, #SQL
 
 ### R1D36
+Day 36 of #100DaysOfSQL 
+Completed Chapter 17 from the book "Learning SQL, 3rd Edition". 
+Learned about Partitioning for Large Databases. Off to Chapter 18 - Big Data.
+#MySQL, #PostgreSQL, #SQL
 
 ### R1D37
+
+### R1D38
