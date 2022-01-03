@@ -215,5 +215,11 @@ Next Book to work on: Practical SQL By Anthony DeBarros @anthonydb
 
 
 ### R1D38
+Day 38 of #100DaysOfSQL 
+BAck to it after the holidays.
+Completed Chapter 1, 2 and exercises from the book Practical SQL
+#PostgreSQL, #SQL
 
 ### R1D39
+
+### R1D40
