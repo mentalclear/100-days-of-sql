@@ -221,5 +221,11 @@ Completed Chapter 1, 2 and exercises from the book Practical SQL
 #PostgreSQL, #SQL
 
 ### R1D39
+Day 39 of #100DaysOfSQL 
+Working through Chapter 3 from the book Practical SQL.
+I feel like data types need some more attention :)
+#PostgreSQL, #SQL
 
 ### R1D40
+
+### R1D41
