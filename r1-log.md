@@ -227,5 +227,11 @@ I feel like data types need some more attention :)
 #PostgreSQL, #SQL
 
 ### R1D40
+Day 40 of #100DaysOfSQL 
+Completed Chapter 3 from the book Practical SQL.
+Off I go to the Chapter 4 about import and export.
+#PostgreSQL, #SQL
 
 ### R1D41
+
+### R1D42
