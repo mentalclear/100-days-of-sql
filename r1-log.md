@@ -233,5 +233,11 @@ Off I go to the Chapter 4 about import and export.
 #PostgreSQL, #SQL
 
 ### R1D41
+Day 41 of #100DaysOfSQL 
+Completed Chapter 4 from the book Practical SQL.
+Starting with Chapter 5 Basic Math and Stats With SQL tomorrow.
+#PostgreSQL, #SQL
 
 ### R1D42
+
+### R1D43
