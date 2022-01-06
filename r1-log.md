@@ -239,5 +239,11 @@ Starting with Chapter 5 Basic Math and Stats With SQL tomorrow.
 #PostgreSQL, #SQL
 
 ### R1D42
+Day 42 of #100DaysOfSQL 
+Completed Chapter 5 from the book Practical SQL.
+Starting with Chapter 6 on joining tables tomorrow.
+#PostgreSQL, #SQL
 
 ### R1D43
+
+### R1D44
