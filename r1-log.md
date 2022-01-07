@@ -245,5 +245,11 @@ Starting with Chapter 6 on joining tables tomorrow.
 #PostgreSQL, #SQL
 
 ### R1D43
+Day 43 of #100DaysOfSQL 
+Working on Chapter 6 from the book Practical SQL.
+Mostly refreshing JOINS. Will be looking into Relationships' types tomorrow.
+#PostgreSQL, #SQL
 
 ### R1D44
+
+### R1D45
