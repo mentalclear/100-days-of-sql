@@ -257,5 +257,12 @@ Mostly the chapter covered JOINS and Relationships.
 #PostgreSQL, #SQL
 
 ### R1D45
+Day 45 of #100DaysOfSQL 
+Working on Chapter 7 from the book Practical SQL.
+Mostly focused on tables' design. Interesting so far!
+#PostgreSQL, #SQL
+
 
 ### R1D46
+
+### R1D47
