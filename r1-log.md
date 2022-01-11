@@ -251,5 +251,11 @@ Mostly refreshing JOINS. Will be looking into Relationships' types tomorrow.
 #PostgreSQL, #SQL
 
 ### R1D44
+Day 44 of #100DaysOfSQL 
+Completed Chapter 6 from the book Practical SQL.
+Mostly the chapter covered JOINS and Relationships.
+#PostgreSQL, #SQL
 
 ### R1D45
+
+### R1D46
