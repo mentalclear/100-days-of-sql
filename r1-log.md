@@ -262,7 +262,15 @@ Working on Chapter 7 from the book Practical SQL.
 Mostly focused on tables' design. Interesting so far!
 #PostgreSQL, #SQL
 
-
 ### R1D46
+Day 46 of #100DaysOfSQL 
+Completed Chapter 7 from the book Practical SQL.
+Learned a lot of interesting things there about:
+Indexes, Keys, Constraints and Relationships.
+Looking forward to Chapter 8.
+#PostgreSQL, #SQL
 
 ### R1D47
+
+
+### R1D48
