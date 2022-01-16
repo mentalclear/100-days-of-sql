@@ -271,6 +271,12 @@ Looking forward to Chapter 8.
 #PostgreSQL, #SQL
 
 ### R1D47
-
+Day 47 of #100DaysOfSQL 
+Started working on the Chapter 8 from the book Practical SQL.
+Mostly focused on the Grouping and Summariziation
+#PostgreSQL, #SQL
 
 ### R1D48
+
+
+### R1D49
