@@ -277,6 +277,12 @@ Mostly focused on the Grouping and Summariziation
 #PostgreSQL, #SQL
 
 ### R1D48
-
+Day 48 of #100DaysOfSQL 
+Being a bit lazy today... snowing Sunday before MLK day holiday.
+Continued working on the Chapter 8 from the book Practical SQL.
+Almost done with the chapter, but there are 2 more exercises left.
+#PostgreSQL, #SQL
 
 ### R1D49
+
+### R1D50
