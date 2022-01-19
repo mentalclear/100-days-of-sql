@@ -284,5 +284,11 @@ Almost done with the chapter, but there are 2 more exercises left.
 #PostgreSQL, #SQL
 
 ### R1D49
+Day 49 of #100DaysOfSQL 
+Completed Chapter 8 from the book Practical SQL.
+Starting with Chapter 9 tomorrow.
+#PostgreSQL, #SQL
 
 ### R1D50
+
+### R1D51
