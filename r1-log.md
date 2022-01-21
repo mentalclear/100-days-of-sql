@@ -290,5 +290,12 @@ Starting with Chapter 9 tomorrow.
 #PostgreSQL, #SQL
 
 ### R1D50
+Day 50 of #100DaysOfSQL 
+Half-way through the challenge! Yay!
+Working on Chapter 9 from the book Practical SQL.
+Now it's becoming really interesting! It's about Inspecting and Modifying Data.
+#PostgreSQL, #SQL
 
 ### R1D51
+
+### R1D52
