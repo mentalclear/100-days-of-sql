@@ -297,5 +297,11 @@ Now it's becoming really interesting! It's about Inspecting and Modifying Data.
 #PostgreSQL, #SQL
 
 ### R1D51
+Day 51 of #100DaysOfSQL 
+Continue working through Chapter 9 from the book Practical SQL.
+Great advices there how to work with data. Check for consistency and how to deal with mistakes and inconsistencies. 
+#PostgreSQL, #SQL
 
 ### R1D52
+
+### R1D53
