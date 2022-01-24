@@ -304,16 +304,12 @@ Great advices there how to work with data. Check for consistency and how to deal
 
 ### R1D52
 Day 52 of #100DaysOfSQL 
-Continue working through Chapter 9 from the book Practical SQL.
-Great advices there how to work with data. Check for consistency and how to deal with mistakes and inconsistencies. 
-#PostgreSQL, #SQL
-
-### R1D53
-Day 52-53 of #100DaysOfSQL 
 Continue working through Chapter 9 from the book Practical SQL - @practicalsql.
 Still some things to go over there. But it's the most interesing 
 chapter so far.
 #PostgreSQL, #SQL
+
+### R1D53
 
 ### R1D54
 
