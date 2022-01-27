@@ -310,7 +310,13 @@ chapter so far.
 #PostgreSQL, #SQL
 
 ### R1D53
+Day 53 of #100DaysOfSQL 
+Working through Chapter 9 from the book Practical SQL - @practicalsql.
+Worked on updating the Values for consistency part.
+#PostgreSQL, #SQL
 
 ### R1D54
 
 ### R1D55
+
+### R1D56
