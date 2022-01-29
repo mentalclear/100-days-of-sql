@@ -316,6 +316,10 @@ Worked on updating the Values for consistency part.
 #PostgreSQL, #SQL
 
 ### R1D54
+Day 54 of #100DaysOfSQL 
+Completed Chapter 9 from the book Practical SQL - @practicalsql.
+Long and interesting chapter! Lots of fun! I'll keep the sweets(exercises) :) for tomorrow.
+#PostgreSQL, #SQL
 
 ### R1D55
 
