@@ -322,5 +322,10 @@ Long and interesting chapter! Lots of fun! I'll keep the sweets(exercises) :) fo
 #PostgreSQL, #SQL
 
 ### R1D55
+Day 55 of #100DaysOfSQL 
+Completed exercises for Chapter 9 from the book Practical SQL - @practicalsql. Starting with Chapter 10 tomorrow.
+#PostgreSQL, #SQL
 
 ### R1D56
+
+### R1D57
