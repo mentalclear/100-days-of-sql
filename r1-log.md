@@ -327,5 +327,10 @@ Completed exercises for Chapter 9 from the book Practical SQL - @practicalsql. S
 #PostgreSQL, #SQL
 
 ### R1D56
+Day 56 of #100DaysOfSQL 
+Started working on Chapter 10 from the book Practical SQL - @practicalsql. Looking into Statistical Functions in SQL.
+#PostgreSQL, #SQL
 
 ### R1D57
+
+### R1D58
