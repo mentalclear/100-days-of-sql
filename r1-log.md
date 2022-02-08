@@ -332,5 +332,11 @@ Started working on Chapter 10 from the book Practical SQL - @practicalsql. Looki
 #PostgreSQL, #SQL
 
 ### R1D57
+Day 57 of #100DaysOfSQL 
+Continue working on Chapter 10 from the book Practical SQL - @practicalsql. Learned about corr(Y,X) correlation function.
+Pretty cool one!
+#PostgreSQL, #SQL
 
 ### R1D58
+
+### R1D59
