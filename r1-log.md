@@ -338,5 +338,10 @@ Pretty cool one!
 #PostgreSQL, #SQL
 
 ### R1D58
+Day 58 of #100DaysOfSQL 
+Completed working on Chapter 10 from the book Practical SQL - @practicalsql. All the good stuff. Will do exercises tomorrow. That's a really practial chapter!
+#PostgreSQL, #SQL
 
 ### R1D59
+
+### R1D60
