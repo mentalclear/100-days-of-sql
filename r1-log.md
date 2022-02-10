@@ -343,5 +343,10 @@ Completed working on Chapter 10 from the book Practical SQL - @practicalsql. All
 #PostgreSQL, #SQL
 
 ### R1D59
+Day 59 of #100DaysOfSQL 
+Working on Chapter 10 exercises from the book Practical SQL - @practicalsql. 
+#PostgreSQL, #SQL
 
 ### R1D60
+
+### R1D61
