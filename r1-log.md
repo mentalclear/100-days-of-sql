@@ -348,5 +348,10 @@ Working on Chapter 10 exercises from the book Practical SQL - @practicalsql.
 #PostgreSQL, #SQL
 
 ### R1D60
+Day 60 of #100DaysOfSQL 
+After some break... back to it! 
+Switched to Practical SQL, 2nd Edition - @practicalsql
+Started working through Chapter 12: Working with Dates and Times 
+#PostgreSQL, #SQL
 
 ### R1D61
