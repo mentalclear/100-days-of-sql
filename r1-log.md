@@ -355,3 +355,18 @@ Started working through Chapter 12: Working with Dates and Times
 #PostgreSQL, #SQL
 
 ### R1D61
+Day 61 of #100DaysOfSQL 
+Working through the book: Practical SQL, 2nd Edition - 
+@practicalsql 
+Completed Chapter 12: Working with Dates and Times, will work on exercises next day.
+#PostgreSQL, #SQL
+
+### R1D62
+Day 62 of #100DaysOfSQL 
+Working through the book: Practical SQL, 2nd Edition
+Started Chapter 13: Advanced Query Techniques
+#PostgreSQL, #SQL
+
+### R1D63
+
+### R1D64
