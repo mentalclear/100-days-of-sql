@@ -374,5 +374,13 @@ Continue working on Chapter 13: Advanced Query Techniques
 #PostgreSQL, #SQL
 
 ### R1D64
+Day 64 of #100DaysOfSQL 
+Working through the book: Practical SQL, 2nd Edition
+Continue working on Chapter 13: Advanced Query Techniques
+Will need one more session to complete.
+#PostgreSQL, #SQL
 
 ### R1D65
+
+### R1D66
+
