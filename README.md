@@ -1,13 +1,19 @@
 # 100DaysOfSQL Challenge 
 
-### Rationale: 
-As a QA Engineer I do little SQL in my daily work and that makes 
-SQL a second class citizen in my skillset. I undersatand all the 
-basics and a quick refresh will be enough for me to write a query
-that I need. 
-But... 
-Often times it's not enough, especially in job interviews where 
-people often suspicius regarding candidate's SQL abilities. 
+## Rationale: 
+As a Software Engineer and Tester, I want to keep my SQL skills sharp. 
+   
+_The Why?_  
+I understand all the basics and a quick refresh will be enough for me to write a query
+that I need. But...  
+Often times it's not enough, especially in _job interviews_ where 
+interviewers are suspicious regarding the candidate's SQL abilities.
 
-So this challenge is to commit to using SQL on a daily basis to 
-have the SQL skills sharp. And... who knows where it might take? :man_shrugging:
+_The Plan_  
+So this challenge is to commit to using SQL on a daily basis to have the SQL skills sharp.  
+And... who knows where it might take? :man_shrugging:
+
+### Resources I'll be using:
+Book: (Practical SQL, 2nd Edition)[https://www.practicalsql.com]  
+Exercices: (PostgreSQL Exercises)[https://pgexercises.com]  
+Katas: (CodeWars)[https://codewars.com]  
