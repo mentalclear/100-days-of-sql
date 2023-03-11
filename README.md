@@ -14,6 +14,12 @@ So this challenge is to commit to using SQL on a daily basis to have the SQL ski
 And... who knows where it might take? :man_shrugging:
 
 ### Resources I'll be using:
-Book: [Practical SQL, 2nd Edition](https://www.practicalsql.com)  
-Exercices: [PostgreSQL Exercises](https://pgexercises.com)  
-Katas: [CodeWars](https://codewars.com)  
+Book:  
+ - [Practical SQL, 2nd Edition](https://www.practicalsql.com)  
+ - [Code Repo for the book](https://github.com/anthonydb/practical-sql-2/)  
+
+Exercices:  
+ - [PostgreSQL Exercises](https://pgexercises.com)  
+
+Katas:  
+ - [CodeWars](https://codewars.com)  
