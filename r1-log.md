@@ -1,6 +1,6 @@
 # #100DaysOfSQL Log - Round 1 - Dmitrii Kilishek
 
-The log of my #100DaysOfSQL challenge. Started on [March 11, Saturday, 2023].
+The log of my #100DaysOfSQL challenge. Started on **March 11, Saturday, 2023**
 
 ## Log
 
