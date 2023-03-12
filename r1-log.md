@@ -14,6 +14,9 @@ Worked on what? What was the progress? Link to the sample.
 
 ### R1D1 
 Day 01 of #100DaysOfSQL 
+Today I setup my docker container with PostgreSQL for my local experiments  
+Also started working through Practic SQL 2nd edition, got to Chapter 4
+#SQL, #PostgreSQL
 
 
 ### R1D2
