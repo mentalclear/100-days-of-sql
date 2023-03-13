@@ -21,7 +21,9 @@ Also started working through Practical SQL 2nd edition book, got to Chapter 4
 
 ### R1D2
 Day 02 of #100DaysOfSQL 
-
+Continue working through Practical SQL 2nd edition book, got to Chapter 4, 
+now need to continue with Understanding Dates and Times
+#SQL, #PostgreSQL
 
 ### R1D3
 Day 03 of #100DaysOfSQL 
