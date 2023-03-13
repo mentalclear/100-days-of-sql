@@ -27,7 +27,9 @@ now need to continue with Understanding Dates and Times
 
 ### R1D3
 Day 03 of #100DaysOfSQL 
-
+Continue working through Practical SQL 2nd edition book, completed Chapter 4, 
+Chapter 5 is coming up...
+#SQL, #PostgreSQL
 
 ### R1D4
 Day 04 of #100DaysOfSQL 
