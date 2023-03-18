@@ -18,7 +18,7 @@ Book:
  - [Practical SQL, 2nd Edition](https://www.practicalsql.com)  
  - [Code Repo for the book](https://github.com/anthonydb/practical-sql-2/)  
 
-Exercices:  
+Exercises:  
  - [PostgreSQL Exercises](https://pgexercises.com)  
 
 Katas:  
