@@ -23,3 +23,4 @@ Exercices:
 
 Katas:  
  - [CodeWars](https://codewars.com)  
+ - [HackerRank](https://hackerrank.com)

@@ -39,7 +39,8 @@ Chapter 6 is coming up...
 
 ### R1D5
 Day 05 of #100DaysOfSQL 
-
+Worked through some SQL challenges on Hackerrank. Mostly refreshing old stuff.
+#SQL, #PostgreSQL
 
 ### R1D6
 Day 06 of #100DaysOfSQL 
