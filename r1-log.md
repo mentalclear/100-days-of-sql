@@ -49,7 +49,8 @@ Worked through some SQL challenges on Hackerrank. Several challenges completed.
 
 ### R1D7
 Day 07 of #100DaysOfSQL 
-
+Worked through some SQL challenges on Hackerrank. Several challenges completed.
+#SQL, #PostgreSQL
 
 ### R1D8
 Day 08 of #100DaysOfSQL 
