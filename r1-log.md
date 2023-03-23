@@ -54,10 +54,14 @@ Worked through some SQL challenges on Hackerrank. Several challenges completed.
 
 ### R1D8
 Day 08 of #100DaysOfSQL 
-
+Continue working through Practical SQL 2nd edition book, working on Chapter 6...
+#SQL, #PostgreSQL
 
 ### R1D9
 Day 09 of #100DaysOfSQL 
+Continue working through Practical SQL 2nd edition book, completed Chapter 6, 
+Chapter 7 is coming up...
+#SQL, #PostgreSQL
 
 
 ### R1D10
