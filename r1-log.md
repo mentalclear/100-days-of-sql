@@ -71,6 +71,9 @@ Working through Chapter 7 - refreshing JOINs
 
 ### R1D11
 Day 11 of #100DaysOfSQL 
+Continue working through Practical SQL 2nd edition book, 
+Working through Chapter 7 - refreshing JOINs, worked on SQL problem from Leetcode
+#SQL, #PostgreSQL
 
 ### R1D12
 Day 12 of #100DaysOfSQL 
