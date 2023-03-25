@@ -63,14 +63,14 @@ Continue working through Practical SQL 2nd edition book, completed Chapter 6,
 Chapter 7 is coming up...
 #SQL, #PostgreSQL
 
-
 ### R1D10
 Day 10 of #100DaysOfSQL 
-
+Continue working through Practical SQL 2nd edition book, 
+Working through Chapter 7 - refreshing JOINs
+#SQL, #PostgreSQL
 
 ### R1D11
 Day 11 of #100DaysOfSQL 
-
 
 ### R1D12
 Day 12 of #100DaysOfSQL 
