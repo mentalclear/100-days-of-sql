@@ -77,11 +77,15 @@ Working through Chapter 7 - refreshing JOINs, worked on SQL problem from Leetcod
 
 ### R1D12
 Day 12 of #100DaysOfSQL 
-
+Continue working through Practical SQL 2nd edition book, 
+Completed Chapter 7!
+#SQL, #PostgreSQL
 
 ### R1D13
 Day 13 of #100DaysOfSQL 
-
+Continue working through Practical SQL 2nd edition book, 
+Working through Chapter 8, continue with Foreign Keys there.
+#SQL, #PostgreSQL
 
 ### R1D14
 Day 14 of #100DaysOfSQL 
