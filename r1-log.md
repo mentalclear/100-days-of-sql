@@ -89,7 +89,9 @@ Working through Chapter 8, continue with Foreign Keys there.
 
 ### R1D14
 Day 14 of #100DaysOfSQL 
-
+Continue working through Practical SQL 2nd edition book, 
+Completed Chapter 8, looking forward to starting the Chapter 9.
+#SQL, #PostgreSQL
 
 ### R1D15
 Day 15 of #100DaysOfSQL 
