@@ -95,11 +95,15 @@ Completed Chapter 8, looking forward to starting the Chapter 9.
 
 ### R1D15
 Day 15 of #100DaysOfSQL 
-
+Continue working through Practical SQL 2nd edition book, 
+Working through Chapter 9, making progress.
+#SQL, #PostgreSQL
 
 ### R1D16
 Day 16 of #100DaysOfSQL 
-
+Continue working through Practical SQL 2nd edition book, 
+Completed Chapter 9, looking forward to starting the Chapter 10.
+#SQL, #PostgreSQL
 
 ### R1D17
 Day 17 of #100DaysOfSQL 
