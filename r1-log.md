@@ -107,7 +107,9 @@ Completed Chapter 9, looking forward to starting the Chapter 10.
 
 ### R1D17
 Day 17 of #100DaysOfSQL 
-
+Continue working through Practical SQL 2nd edition book, 
+Working through Chapter 10, continue with Repairing ZIP Codes Using Concatenation.
+#SQL, #PostgreSQL
 
 ### R1D18
 Day 18 of #100DaysOfSQL 
