@@ -113,7 +113,9 @@ Working through Chapter 10, continue with Repairing ZIP Codes Using Concatenatio
 
 ### R1D18
 Day 18 of #100DaysOfSQL 
-
+Continue working through Practical SQL 2nd edition book, 
+Completed Chapter 10, looking forward to starting the Chapter 11.
+#SQL, #PostgreSQL
 
 ### R1D19
 Day 19 of #100DaysOfSQL 
