@@ -119,7 +119,9 @@ Completed Chapter 10, looking forward to starting the Chapter 11.
 
 ### R1D19
 Day 19 of #100DaysOfSQL 
-
+Continue working through Practical SQL 2nd edition book, 
+Completed Chapter 11, looking forward to starting the Chapter 12.
+#SQL, #PostgreSQL
 
 ### R1D20
 Day 20 of #100DaysOfSQL 
