@@ -125,11 +125,15 @@ Completed Chapter 11, looking forward to starting the Chapter 12.
 
 ### R1D20
 Day 20 of #100DaysOfSQL 
-
+Continue working through Practical SQL 2nd edition book, 
+Working through Chapter 12, Dates and Times.
+#SQL, #PostgreSQL
 
 ### R1D21
 Day 21 of #100DaysOfSQL 
-
+Continue working through Practical SQL 2nd edition book, 
+Completed Chapter 12, looking forward to starting the Chapter 13.
+#SQL, #PostgreSQL
 
 ### R1D22
 Day 22 of #100DaysOfSQL 
