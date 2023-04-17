@@ -137,7 +137,9 @@ Completed Chapter 12, looking forward to starting the Chapter 13.
 
 ### R1D22
 Day 22 of #100DaysOfSQL 
-
+Continue working through Practical SQL 2nd edition book, 
+Working through Chapter 13, Advanced Query Techniques.
+#SQL, #PostgreSQL
 
 ### R1D23
 Day 23 of #100DaysOfSQL 
